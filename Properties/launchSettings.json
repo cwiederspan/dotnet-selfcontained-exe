@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MyFullConsole": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
